@@ -1,11 +1,12 @@
 import React from 'react';
 
-const testing = () => {
+const Testing = () => {
   return (
     <div>
       testing
     </div>
   );
 }
+rf
 
-export default testing;
+export default Testing;
